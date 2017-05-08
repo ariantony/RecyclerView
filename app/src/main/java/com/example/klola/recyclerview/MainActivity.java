@@ -34,6 +34,26 @@ public class MainActivity extends AppCompatActivity {
         allItems.add(new ItemObject("Sweden", R.drawable.four));
         allItems.add(new ItemObject("Indonesia", R.drawable.five));
         allItems.add(new ItemObject("Saudi Arabia", R.drawable.six));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.seven));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.eight));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.nine));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.ten));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.twelve));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.fourteen));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.sixteen));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.enambelas));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.tujuhbelas));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.delapanbelas));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.sembilanbelas));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.duapuluh));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.duapuluhsatu));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.duapuluhdua));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.duapuluhtiga));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.duapuluhempat));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.duapuluhlima));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.duapuluhenam));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.duapuluhtujuh));
+        allItems.add(new ItemObject("Saudi Arabia", R.drawable.duapuluhdepalan));
     return allItems;
     }
 }
